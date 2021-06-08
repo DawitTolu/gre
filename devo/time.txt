@@ -1,0 +1,14 @@
+Time consuming: The time required to take student photo, 
+editing ID card to be printed, printing ID card and distributing ID card for students is high. 
+This consumed time for all students is approximately 3 weeks
+1.4.1 Scope of FAS - AASTU 
+The scope of the project is the domain or work area of the project. This project is focused on ID of AASTU students.
+The scope of this project in terms of major deliverables :- 
+?	planning 
+?	Identifying the problem 
+?	design  
+•	Front end
+•	Back end
+?	development 
+?	testing of FAS-AASTU software package. 
+?	User manual
